@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'City University of Hong Kong',
+    degree: 'MSc Electronic Information Engineering',
+    link: 'https://www.ee.cityu.edu.hk/current_students/taught_postgraduate/aims',
+    year: 2024,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'City University of Hong Kong',
+    degree: 'BEng Electronic and Communication Engineering',
+    link: 'https://www.ee.cityu.edu.hk/',
+    year: 2019,
   },
 ];
 
