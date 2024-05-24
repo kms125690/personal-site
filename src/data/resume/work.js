@@ -17,15 +17,10 @@ const work = [
     position: 'Engineer',
     url: 'https://www.hkclr.hk/',
     startDate: '2023-11-01',
-    summary: `Automatic grasping and manipulation are of the most prominent processes 
-    influencing logistics efficiency, where rapid visual detection, robust grasping, 
-    and tackling of variable objects are the main complexities. The manipulation challenge 
-    serves as a motivation to focus research and development efforts on a specific robotic 
-    manipulation problem.`,
+    summary: 'TBD',
     highlights: [
-      'Safe and dexterous smart end-effectors',
-      'AI based visual and haptic perception algorithms',
-      'Hardware-agnostic smart grasping platform',
+      'TBD',
+      'TBD',
     ],
   },
   {
